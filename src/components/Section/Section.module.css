@@ -1,0 +1,11 @@
+.Section {
+  width: 100%;
+}
+
+.Header {
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
